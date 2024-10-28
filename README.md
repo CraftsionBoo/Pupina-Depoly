@@ -1,7 +1,7 @@
 # Pupina-Depoly
-Mainly for tensorRT network model deployment, collection and testing
+TensorRT部署相关测试代码
 
-### reference
+### 致谢
 [<font color=red>https://github.com/aaron-xichen/pytorch-playground/tree/master</font>](https://github.com/aaron-xichen/pytorch-playground/tree/master)
 
 [<font color=red>TensorRT: https://github.com/NVIDIA/TensorRT/tree/release/10.5/samples/sampleOnnxMNIST </font>](https://github.com/NVIDIA/TensorRT/tree/release/10.5/samples/sampleOnnxMNIST)
