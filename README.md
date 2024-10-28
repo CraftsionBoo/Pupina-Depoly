@@ -1,5 +1,5 @@
 # Pupina-Depoly
-TensorRT部署相关测试代码
+TensorRT相关部署代码
 
 ### 致谢
 [<font color=red>https://github.com/aaron-xichen/pytorch-playground/tree/master</font>](https://github.com/aaron-xichen/pytorch-playground/tree/master)
