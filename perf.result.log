@@ -1,0 +1,15 @@
+yolov5s,YoloV5,FP16,10.221517
+yolov5s,YoloV5,FP16,10.185832
+yolov8-seg,yolo_seg,FP16,20.841335
+depth_anything_vits14,depth_v2,FP16,17.694662
+depth_anything_vits14,depth_v2,FP16,104.702026
+depth_anything_vits14,depth_v2,FP16,104.887489
+depth_anything_vits14,depth_v2,FP16,104.551674
+depth_anything_vits14,depth_v2,FP16,104.831177
+depth_anything_vits14,depth_v2,FP16,104.923988
+depth_anything_v2_vits,depth_v2,FP16,107.807167
+depth_anything_v2_vitb,depth_v2,FP16,235.170334
+depth_anything_v2_vitb,depth_v2,FP16,235.509354
+depth_anything_v2_vits,depth_v2,FP16,108.227989
+depth_anything_v2_vitb,depth_v2,FP16,235.538651
+depth_anything_vits14,depth_v2,FP16,105.303673
